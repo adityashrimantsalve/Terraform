@@ -8,7 +8,7 @@ erraform {
 }
 
 provider "linux" {
-  host = "localhost"
+  host = "192.168.119.130"
   user = "root"
 }
 
